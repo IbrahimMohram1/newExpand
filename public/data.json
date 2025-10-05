@@ -1,0 +1,384 @@
+{
+  "sectionsMission": [
+    {
+      "title": "Our Vision",
+      "content": "To be the leading procurement partner for giga-projects and industries driving the future of the region."
+    },
+    {
+      "title": "Our Mission",
+      "content": "To lead the market with fully integrated, client-centric solutions that redefine quality and innovation. We are committed to addressing unique challenges and goals through exceptional service, continuous improvement, and building trusted, long-term partnerships."
+    }
+  ],
+  "CounterData": [
+    {
+      "icon": "TbActivityHeartbeat",
+      "value": "200+",
+      "label": "Clients Annually"
+    },
+    {
+      "icon": "TbActivityHeartbeat",
+      "value": "15000+",
+      "label": "Products Yearly"
+    },
+    {
+      "icon": "TbActivityHeartbeat",
+      "value": "98%",
+      "label": "Customer Satisfaction"
+    },
+    {
+      "icon": "TbActivityHeartbeat",
+      "value": "250+",
+      "label": "Global Reach"
+    },
+    {
+      "icon": "TbActivityHeartbeat",
+      "value": "150+",
+      "label": "Projects Annually"
+    }
+  ],
+  "Services": [
+    {
+      "id": 1,
+      "title": "ELECTRICAL",
+      "icon": "MdElectricBolt",
+      "image": "https://res.cloudinary.com/dkpfxal7c/image/upload/v1742657504/0ba6ecef59_oczl2q.jpg",
+      "image1": "https://res.cloudinary.com/dkpfxal7c/image/upload/v1742657524/e7950831fe_s39fwq.jpg",
+      "description": "Delivering high-quality electrical systems and components for infrastructure, industrial, and energy projects ",
+      "whatWeOffer": [
+        "Power distribution systems",
+        "Industrial wiring & control systems",
+        "Lighting & automation solutions"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "SAFETY AND SECURITY",
+      "icon": "MdSecurity",
+      "description": "Complete safety and protection systems to ensure compliance and safeguard operations. ",
+      "image": "https://res.cloudinary.com/dkpfxal7c/image/upload/v1742657568/9113799173_jzrrzj.jpg",
+      "image1": "https://res.cloudinary.com/dkpfxal7c/image/upload/v1742657575/58cc3b529b_qrokgq.png",
+      "whatWeOffer": [
+        "Fire detection & suppression systems",
+        "Safety gear & protective equipment",
+        "Access control & surveillance"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "AIRPORT HANDLING ",
+      "icon": "GiCommercialAirplane",
+      "image": "https://res.cloudinary.com/dkpfxal7c/image/upload/v1742657612/93f1205805_ln66fs.jpg",
+      "image1": "https://res.cloudinary.com/dkpfxal7c/image/upload/v1742657627/5654cc57f0_t8g0ga.jpg",
+      "description": "Offering baggage handling tools, security test baggage, trolleys, and seals to enhance airport operations and security.  ",
+      "whatWeOffer": [
+        "Baggage handling systems",
+        "Passenger boarding bridges",
+        "Air traffic control systems"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "MARINE EQUIPMENT",
+      "icon": "FaShip",
+      "image": "https://res.cloudinary.com/dkpfxal7c/image/upload/v1742657837/47703d7e96_i8etjf.jpg",
+      "image1": "https://res.cloudinary.com/dkpfxal7c/image/upload/v1742657876/cb8b3b9ef3_c9dnbe.jpg",
+      "description": "Comprehensive solutions for marine safety and offshore operations.",
+      "whatWeOffer": [
+        "Navigation systems",
+        "Marine communication systems",
+        "Safety & rescue equipment",
+        "Offshore support equipment"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "EV EQUIPMENT",
+      "icon": "FaChargingStation",
+      "image": "https://res.cloudinary.com/dkpfxal7c/image/upload/v1742657909/4e04b0982d_xfmff9.jpg",
+      "image1": "https://res.cloudinary.com/dkpfxal7c/image/upload/v1742657925/5bf2ec48ae_otfxgx.jpg",
+      "description": "Supporting the transition to sustainable energy with advanced EV infrastructure. ",
+      "whatWeOffer": [
+        "EV charging stations",
+        "Battery solutions",
+        "Grid integration technology"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "TECHNOLOGICAL ",
+      "icon": "FaBarcode",
+      "image": "https://res.cloudinary.com/dkpfxal7c/image/upload/v1742657967/a649a41c9e_udp2fx.jpg",
+      "image1": "https://res.cloudinary.com/dkpfxal7c/image/upload/v1742657958/c704ac12c4_djnsmb.jpg",
+      "description": "Smart automation and robotics to drive efficiency in industrial operations.  ",
+      "whatWeOffer": [
+        "Industrial robots",
+        "Digital monitoring systems",
+        "Automation integration solutions"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "STORAGE & Workshop EQUIPMENT",
+      "icon": "MdSdStorage",
+      "image": "https://res.cloudinary.com/dkpfxal7c/image/upload/v1742657435/0428c6a0f4_iqj3z1.jpg",
+      "image1": "https://res.cloudinary.com/dkpfxal7c/image/upload/v1742657432/ebd332d99c_csq8yw.jpg",
+      "description": " Providing specialized storage and workshop solutions for efficiency and safety. ",
+      "whatWeOffer": [
+        "Heavy-duty storage systems",
+        "Workshop tools & machinery",
+        "Custom fabrication equipment"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "POWER & EQUIPMENT",
+      "icon": "MdPower",
+      "image": "https://res.cloudinary.com/dkpfxal7c/image/upload/v1742678222/6d767944ec_mf9ryj.jpg",
+      "image1": "https://res.cloudinary.com/dkpfxal7c/image/upload/v1742678228/2bfe1bfbc7_vwzzm4.jpg",
+      "description": "Offering fasteners, C-channels, plastic conduits, and fittings for construction and industrial applications.  ",
+      "whatWeOffer": [
+        "Generators",
+        "Power distribution systems",
+        "Renewable energy solutions"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "DIGITAL AND ROBOTICS",
+      "icon": "FaRobot",
+      "image": "https://res.cloudinary.com/dkpfxal7c/image/upload/v1742678135/e89687f32c_kigzze.jpg",
+      "image1": "https://res.cloudinary.com/dkpfxal7c/image/upload/v1742678160/db1f4a2f8f_dztoud.jpg",
+      "description": "Delivering AI, IoT, and automation solutions for warehouse management, predictive maintenance, and operational efficiency.",
+      "whatWeOffer": [
+        "Powered Warehouse Inventory Management",
+        "Robotics-Powered Picking & Packing Systems",
+        "Warehouse Automation & Optimization",
+        "IoT-Driven Real-Time Asset Monitoring",
+        "AI-Based Predictive Maintenance for Robotics",
+        "End-to-End Warehouse Management System (WMS)",
+        "Automation for Last-Mile Delivery",
+        "Computer Vision Solutions for Warehouse Operations",
+        "Digital Integration and ERP Solutions",
+        "Workforce Augmentation & Training"
+      ]
+    }
+  ],
+  "trustedBy": [
+    {
+      "image": "https://res.cloudinary.com/dkpfxal7c/image/upload/v1742226121/Logo6_w2btbd.jpg"
+    },
+    {
+      "image": "https://res.cloudinary.com/dkpfxal7c/image/upload/v1742226120/Logo1_rqgdvt.jpg"
+    },
+    {
+      "image": "https://res.cloudinary.com/dkpfxal7c/image/upload/v1742226121/Logo3_kenodh.jpg"
+    },
+    {
+      "image": "https://res.cloudinary.com/dkpfxal7c/image/upload/v1742226121/Logo4_iw7kb2.jpg"
+    },
+    {
+      "image": "https://res.cloudinary.com/dkpfxal7c/image/upload/v1742226119/Logo2_xbuytv.jpg"
+    },
+    {
+      "image": "https://res.cloudinary.com/dkpfxal7c/image/upload/v1742226120/Logo5_dt15kb.jpg"
+    }
+  ],
+  "Projects": [
+    {
+      "id": 101,
+      "image": "https://up6.cc/2025/03/174223622839531.jpeg",
+      "name": "Red Sea",
+      "description": "We provided our services across key facilities including the airport, Shibara, Ritz-Carlton Hotel, 6 Senses Hotel, and St. Regis Hotel, offering electrical, security, and technological solutions.",
+      "ProjectsServices": [
+        {
+          "title": "Electrical Services",
+          "description": "We implemented comprehensive electrical solutions, including interior and exterior lighting, electrical installations, maintenance, and various upgrades."
+        },
+        {
+          "title": "Safety and Security Systems",
+          "description": "We provided safety equipment such as eye wash stations, fire alarms, and security systems for sensitive facilities."
+        },
+        {
+          "title": "Facility Management Systems",
+          "description": "Advanced technologies like robotics and electronic systems for warehouse management, optimizing processes, and increasing efficiency."
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "image": "https://up6.cc/2025/03/174223707005531.jpg",
+      "name": "King Abdulaziz Airport",
+      "description": "We provided integrated services including electrical, security, and facility management solutions to ensure the airport operates at peak efficiency.",
+      "ProjectsServices": [
+        {
+          "title": "Electrical Services",
+          "description": "We implemented comprehensive electrical solutions, including interior and exterior lighting, electrical installations, maintenance, and various upgrades."
+        },
+        {
+          "title": "Safety and Security Systems",
+          "description": "We provided safety equipment such as eye wash stations, fire alarms, and security systems for sensitive facilities."
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "image": "https://up6.cc/2025/03/17422368023431.png",
+      "name": "King Khalid Airport",
+      "description": "Our services included advanced security and safety solutions, as well as electrical system improvements to meet the demands of a modern airport.",
+      "ProjectsServices": [
+        {
+          "title": "Electrical Services",
+          "description": "We implemented comprehensive electrical solutions, including interior and exterior lighting, electrical installations, maintenance, and various upgrades."
+        },
+        {
+          "title": "Safety and Security Systems",
+          "description": "We provided safety equipment such as eye wash stations, fire alarms, and security systems for sensitive facilities."
+        },
+        {
+          "title": "Mechanical and Electrical Systems",
+          "description": "We provided integrated mechanical and electrical equipment for buildings and critical facilities, including generators, lighting, and technological systems."
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "image": "https://up6.cc/2025/03/17422365239461.png",
+      "name": "Taif Airport",
+      "description": "Our services included electrical system upgrades, safety equipment provision, and advanced technology integration to create a safe and efficient environment.",
+      "ProjectsServices": [
+        {
+          "title": "Electrical Services",
+          "description": "We implemented comprehensive electrical solutions, including interior and exterior lighting, electrical installations, maintenance, and various upgrades."
+        },
+        {
+          "title": "Safety and Security Systems",
+          "description": "We provided safety equipment such as eye wash stations, fire alarms, and security systems for sensitive facilities."
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "image": "https://up6.cc/2025/03/174223578879261.jpeg",
+      "name": "Haramain Project",
+      "description": "We provided multiple solutions in electrical, safety, and mechanical systems, ensuring the project was developed to the highest level of efficiency.",
+      "ProjectsServices": [
+        {
+          "title": "Electrical Services",
+          "description": "We implemented comprehensive electrical solutions, including interior and exterior lighting, electrical installations, maintenance, and various upgrades."
+        },
+        {
+          "title": "Mechanical and Electrical Systems",
+          "description": "We provided integrated mechanical and electrical equipment for buildings and critical facilities, including generators, lighting, and technological systems."
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "image": "https://up6.cc/2025/03/174223736709131.jpg",
+      "name": "St. Regis Resort",
+      "description": "We provided comprehensive solutions, including electrical, security, and facility management systems, to ensure the seamless operation of St. Regis Resort. Our services encompassed advanced lighting, safety systems, and energy-efficient technologies, enhancing the resort’s luxury experience and operational efficiency.",
+      "ProjectsServices": [
+        {
+          "title": "Electrical Services",
+          "description": "We implemented comprehensive electrical solutions, including interior and exterior lighting, electrical installations, maintenance, and various upgrades."
+        },
+        {
+          "title": "Safety and Security Systems",
+          "description": "We provided safety equipment such as eye wash stations, fire alarms, and security systems for sensitive facilities."
+        },
+        {
+          "title": "Facility Management Systems",
+          "description": "Advanced technologies like robotics and electronic systems for warehouse management, optimizing processes, and increasing efficiency."
+        }
+      ]
+    }
+  ],
+  "OurVisionAndMission": {
+    "vision": [
+      {
+        "id": 1,
+        "title": "Global Leadership",
+        "description": "To emerge as a global pioneer in delivering innovative and tailored solutions that meet diverse industry needs."
+      },
+      {
+        "id": 2,
+        "title": "Inspiring Trust",
+        "description": "To build lasting confidence and drive success for our clients and partners through exceptional service and reliability."
+      },
+      {
+        "id": 3,
+        "title": "Market Adaptability",
+        "description": "To proactively adapt to ever-changing market dynamics, ensuring we consistently exceed expectations."
+      },
+      {
+        "id": 4,
+        "title": "Innovation Excellence",
+        "description": "To set new industry benchmarks by integrating cutting-edge technologies and forward-thinking strategies."
+      },
+      {
+        "id": 5,
+        "title": "Operational Excellence",
+        "description": "To uphold excellence as a cornerstone of our values, delivering unmatched quality and value at every stage."
+      }
+    ],
+    "mission": [
+      {
+        "id": 1,
+        "title": "Market Leadership",
+        "description": "To lead the market with fully integrated solutions that set new standards for quality and innovation."
+      },
+      {
+        "id": 2,
+        "title": "Client Empowerment",
+        "description": "To empower clients by understanding their unique needs and delivering strategic, results-driven solutions."
+      },
+      {
+        "id": 3,
+        "title": "Exceptional Service",
+        "description": "To provide outstanding service that ensures client satisfaction and drives mutual success."
+      },
+      {
+        "id": 4,
+        "title": "Continuous Improvement",
+        "description": "To embrace a culture of continuous learning and innovation, staying ahead of industry trends."
+      },
+      {
+        "id": 5,
+        "title": "Sustainable Growth",
+        "description": "To foster industry-leading growth through responsible business practices and value-driven solutions."
+      }
+    ]
+  },
+  "feedback": [
+    {
+      "id": 1,
+      "name": "Faisal",
+      "position": "Project Manager",
+      "comment": "Excellent service and precision in execution. We’ve worked with them on several projects, and they always meet expectations with the highest quality."
+    },
+    {
+      "id": 2,
+      "name": "Sami",
+      "position": "Electrical Engineer",
+      "comment": "Professionalism in work and adherence to timelines sets Expand Trading apart. Their services are diverse and cover all project needs."
+    },
+    {
+      "id": 3,
+      "name": "Ahmed",
+      "position": "Maintenance Manager",
+      "comment": "We’ve collaborated with Expand Trading on multiple projects, and what stands out is their commitment to providing innovative solutions that keep up with technological advancements."
+    },
+    {
+      "id": 4,
+      "name": "Mohammed",
+      "position": "Operations Manager",
+      "comment": "Expand Trading always excels in offering comprehensive and advanced solutions. Their team is highly professional and capable of handling any challenge."
+    },
+    {
+      "id": 5,
+      "name": "Nasser",
+      "position": "Safety Manager",
+      "comment": "The safety services provided by Expand Trading have become an essential part of our projects. The level of service and products aligns with the highest standards."
+    }
+  ]
+}

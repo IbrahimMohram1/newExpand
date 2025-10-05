@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.MainBg{
+    background-color: #2C2A61;
+}
+.V-Text{
+writing-mode: sideways-lr;
+}
+
+.CustomList{
+            list-style-type: decimal;
+        
+}
+.CustomList::marker{
+    font-size: 0.50rem;
+        /* حجم الخط للأرقام */
+        color: #000;
+        /* لون الأرقام */
+
+}
+
+.swiper-wrapper{
+    display: flex;
+    justify-content: center;
+}
+.slick-slider{
+    width: 100%;
+}
+.slick-track{
+    display: flex !important ;
+}
+
+html{
+    font-size: 21px;
+}
+
+.slick-dots{
+    margin-top: 10px !important;
+}
+body {
+    font-family: 'MyCustomFont', sans-serif;
+    /* هنا بنطبق الفونت */
+}
+p{
+    line-height: 28.8px !important;
+}
+
+.slick-prev:before{
+    content: none !important;
+}
+.slick-next:before{
+    content: none !important;
+}
+.custom-capitalize {
+    text-transform: capitalize;
+}
+
+@media screen and (max-width: 768px) {
+    .slick-next {
+        right: -20px !important;
+    }
+
+    .slick-prev {
+        left: -20px !important ;
+    }
+}
+.active p {
+    border-bottom: 1px solid #D74D1E;
+    width: max-content;
+    padding-bottom: 5px;
+        /* Add space between text and border */
+}
+
+.active{
+    color: #D74D1E ;
+}
+.noLineHeight{
+    line-height: normal !important;
+}
+
+/* styles.css */
+.partial-border {
+    position: relative;
+}
+
+.partial-border::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    /* جزء من العرض */
+    height: 2px;
+    /* سماكة الحد */
+    background-color: #dc2626;
+    /* لون الحد (red-600) */
+}
+
+.partial-border::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 2px;
+    /* سماكة الحد */
+    height: 50%;
+    /* جزء من الارتفاع */
+    background-color: #dc2626;
+    /* لون الحد (red-600) */
+}
